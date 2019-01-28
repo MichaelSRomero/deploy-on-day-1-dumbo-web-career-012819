@@ -2910,6 +2910,10 @@ input.hs-button.primary.large{
   text-align: bottom;
 }
 
+div#amos-background {
+    background-position: center;
+}
+
 .page-title {
   position: relative;
   vertical-align:bottom;
